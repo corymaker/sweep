@@ -1,3 +1,4 @@
+<img width="2560" height="1280" alt="sweep-banner" src="https://github.com/user-attachments/assets/911059bd-cdec-42db-85a4-332dbe6ee7c2" />
 Sweep
 
 One RTL-SDR dongle, one app that picks up everything — and never makes anything up.
